@@ -1,0 +1,6 @@
+pyinstaller
+numpy~=2.2.1
+pyopencl~=2024.3
+siphash24~=1.7
+myjdapi~=1.1.7
+requests~=2.32.3
